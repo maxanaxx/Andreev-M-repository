@@ -1,4 +1,3 @@
-
 size_mb = 1.44
 size_bytes = size_mb * 1024 * 1024
 pages = 100
